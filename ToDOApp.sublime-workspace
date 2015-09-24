@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/matt/Sites/finalproject/src/views/recipe-list.js",
+		"/home/matt/Sites/finalproject/styles.css",
+		"/home/matt/Sites/finalproject/db.json",
+		"/home/matt/Sites/finalproject/src/views/home.js",
+		"/home/matt/Sites/finalproject/index.html",
+		"/home/matt/Sites/finalproject/src/templates/about-us.hbs",
+		"/home/matt/Sites/finalproject/src/views/add-recipe.js",
+		"/home/matt/Sites/finalproject/src/templates/cookware.hbs",
+		"/home/matt/Sites/finalproject/src/views/cookware.js",
+		"/home/matt/Sites/finalproject/src/templates/signup.hbs",
+		"/home/matt/Sites/finalproject/src/views/signup.js",
+		"/home/matt/Sites/finalproject/src/main.js",
+		"/home/matt/Sites/finalproject/src/templates/add-recipe.hbs",
+		"/home/matt/Sites/finalproject/src/templates/Recipe-list.hbs",
+		"/home/matt/Sites/finalproject/src/templates/login.hbs",
+		"/home/matt/Sites/finalproject/src/collections/user.js",
+		"/home/matt/Sites/finalproject/src/models/user.js",
+		"/home/matt/Sites/finalproject/src/templates/home.hbs",
+		"/home/matt/Sites/finalproject/src/views/login.js",
+		"/home/matt/Sites/finalproject/src/collections/recipe.js",
+		"/home/matt/Sites/finalproject/src/views/logout.js",
+		"/home/matt/Sites/finalproject/src/extra.js",
+		"/home/matt/Sites/finalproject/src/models/recipe.js",
+		"/home/matt/Sites/finalproject/gulpfile.js",
+		"/home/matt/Sites/finalproject/.gitignore",
+		"/home/matt/Sites/finalproject/src/views/about-us.js",
+		"/home/matt/Sites/finalproject/src/app.js",
+		"/home/matt/Sites/finalproject/animated.js",
+		"/home/matt/Sites/finalproject/src/collections/about-us.js",
+		"/home/matt/Sites/finalproject/src/models/home.js",
+		"/home/matt/Sites/finalproject/src/collections/home.js",
+		"/home/matt/Sites/finalproject/package.json",
+		"/home/matt/Sites/finalproject/src/models/about-us.js",
+		"/home/matt/Sites/Lessons/HTML/Forms/index.html",
+		"/home/matt/Sites/Lessons/moreBackbone/index.html",
+		"/home/matt/Sites/Lessons/moreBackbone/src/collections/home-collection.js",
+		"/home/matt/Sites/Lessons/moreBackbone/src/models/home-model.js",
+		"/home/matt/Sites/Lessons/moreBackbone/src/models/realtor-model.js",
+		"/home/matt/Sites/Lessons/moreBackbone/src/views/homes-profile-view.js",
+		"/home/matt/Sites/Lessons/moreBackbone/src/views/homes-view.js",
+		"/home/matt/Sites/Lessons/moreBackbone/index.js",
+		"/home/matt/Sites/Lessons/moreBackbone/animated.js",
+		"/home/matt/Sites/Lessons/moreBackbone/styles.css",
+		"/home/matt/Sites/Lessons/moreBackbone/main.js",
+		"/home/matt/Sites/Lessons/moreBackbone/db.json",
+		"/home/matt/Sites/stuff/main.js",
+		"/home/matt/Sites/stuff/index.html",
+		"/home/matt/Sites/Lessons/morepractice/JavaReview/main.js",
+		"/home/matt/Sites/Lessons/morepractice/JavaReview/index.html",
+		"/home/matt/Sites/Lessons/hbsPractice/main.js",
+		"/home/matt/Sites/Lessons/hbsPractice/index.html",
+		"/home/matt/Sites/Lessons/morepractice/JavaReview/getusers.json",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/db.json",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/index.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/views/shoe-form.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/index.html",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/views/user-form.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/css/main.css",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/templates/list-users.hbs",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/templates/user-form.hbs",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/templates/product-form.hbs",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/images/Skate-Shoes.jpg",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/.gitignore",
+		"/home/matt/Desktop/backbone images/Basketball-Shoes.jpg",
+		"/home/matt/Desktop/backbone images/Casual.jpg",
+		"/home/matt/Desktop/backbone images/Dress.jpg",
+		"/home/matt/Desktop/backbone images/Sandals.jpg",
+		"/home/matt/Desktop/backbone images/Skate-Shoes.jpg",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/templates/list-products.hbs",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/app.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/views/list-users.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/views/list-products.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/models/shoe.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/models/user.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/collections/shoe.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/src/collections/user.js",
+		"/home/matt/Sites/m5/BackboneJS-User-CRUD/package.json",
+		"/home/matt/Sites/Lessons/Backbone/App/db.json",
+		"/home/matt/Sites/Lessons/Backbone/App/src/views/user-profile.js",
+		"/home/matt/Sites/Lessons/Backbone/App/src/views/list-users.js",
+		"/home/matt/Sites/Lessons/Backbone/App/src/main.js",
+		"/home/matt/Sites/Lessons/Backbone/App/src/collections/user.js",
+		"/home/matt/Sites/Lessons/Backbone/App/src/models/user.js",
+		"/home/matt/Sites/Lessons/Backbone/App/index.html",
+		"/home/matt/Sites/Lessons/Backbone/App/bower.json",
+		"/home/matt/Sites/Lessons/Backbone/App/Router/bower.json",
+		"/home/matt/Sites/Lessons/morepractice/index.html",
+		"/home/matt/Sites/Lessons/morepractice/styles.css",
+		"/home/matt/Sites/Lessons/morepractice/main.js",
+		"/home/matt/Sites/Lessons/Backbone/index.html",
+		"/home/matt/Sites/Lessons/Backbone/main.js",
+		"/home/matt/Sites/Lessons/practicestuff/index.html",
+		"/home/matt/Sites/Lessons/practicestuff/main.js",
+		"/home/matt/Sites/Lessons/practicestuff/styles.css",
+		"/home/matt/Sites/Lessons/morepractice/Program-Challenge/db.json",
+		"/home/matt/Sites/m4/jQuery Twitter v2/js/index.js",
+		"/home/matt/Sites/m4/jQuery Twitter v2/templates/tweet.handlebars",
+		"/home/matt/Sites/m4/jQuery Twitter v2/js/template.js",
+		"/home/matt/Sites/Lessons/practicestuff/db.json",
+		"/home/matt/Sites/m4/jQuery Twitter v2/gulpfile.js",
+		"/home/matt/Sites/m4/jQuery Twitter v2/package.json",
+		"/home/matt/Sites/Lessons/Router/index.html",
+		"/home/matt/Sites/Lessons/Router/main.js",
+		"/home/matt/Sites/Lessons/Router/.gitignore",
+		"/home/matt/Sites/Lessons/createProject/index.js",
+		"/home/matt/Sites/Lessons/createProject/gulpfile.js",
+		"/home/matt/Sites/Lessons/createProject/package.json",
+		"/home/matt/Sites/Lessons/createProject/main.html",
+		"/home/matt/Sites/Lessons/createProject/dist/index.js",
+		"/home/matt/Sites/Lessons/m4practice.js",
+		"/home/matt/Sites/m4/jQuery Twitter v2/index.html",
+		"/home/matt/Sites/Lessons/JQuery/AJAX/main.js",
+		"/home/matt/Sites/Lessons/CSS/Responsive/styles.css",
+		"/home/matt/Sites/Lessons/CSS/practice/styles.css",
+		"/home/matt/Sites/Lessons/Javascript/arrays.js",
+		"/home/matt/Sites/Lessons/index.html",
+		"/home/matt/Sites/m4/jQuery Twitter v2/templates/thread.handlebars",
+		"/home/matt/Sites/m4/jQuery Twitter v2/templates/compose.handlebars",
+		"/home/matt/Sites/m4/jQuery Twitter v2/css/styles.css",
+		"/home/matt/Sites/m4/jQuery Twitter v2/db.json",
+		"/home/matt/Sites/Matt/_config.yml",
+		"/home/matt/Sites/m3/JQueryTwitter/index.html",
+		"/home/matt/Sites/m4/CSS/index.html",
+		"/home/matt/Sites/m4/CSS/main.js",
+		"/home/matt/Sites/m4/CSS/bower.json",
+		"/home/matt/Sites/m4/CSS/bower_components/jquery/.bower.json",
+		"/home/matt/Sites/Matt/_posts/2015-07-14-welcome-to-jekyll.markdown",
+		"/home/matt/Sites/Matt/_layouts/matt.html"
+	],
+	"find":
+	{
+		"height": 82.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n    e.preventDefault();\n    var input = $('#search').val()",
+			"\n    $('.option2').hide();\n    $('.option1').show();",
+			"match = (new RegExp('.*' + searchTerm + '.*'))\n            .test(model.get('name'))",
+			"console",
+			"()\n",
+			"object",
+			"log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 82.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ToDOApp.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
